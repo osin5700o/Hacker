@@ -1,1 +1,492 @@
+Linux~#
+
+  this is a essential skill that every hacker should know.
+
+  We can learn Linux by mastering the book by ~OTW~ 
+    
+  `Linux Basics For Hackers`
+  You can Also watch Youtubevid to learn Linux
+
+  the books will be in `habooks` repo
+
+
+Network~#
+
+  If Linux in blood then Networking is heart.
+
+  We will learn many topics of Networking in Hacking perspective
+
+  WE will use a book by ~OTW~
+
+  `Network Basics For Hackers`
+
+  You can buy the book but for getting a digital copy in free of cost, you can join any telegram channel releted to hacking , you will find.
+  You can Also watch Youtubevid to learn Network
+
+
+Ethical Hacking~#
+
+  `Module 01: Introduction to Ethical Hacking – Covers information security basics, ethical hacking concepts, security controls, and cyber laws.`
+
+  `Module 02: Footprinting and Reconnaissance – Teaches intelligence gathering and OSINT techniques to map target attack surfaces.`
+
+  `Module 03: Scanning Networks – Explores network scanning methodologies, host discovery, and port scanning tools.`
+
+  `Module 04: Enumeration – Focuses on active information extraction like SMB, SNMP, and NetBIOS enumeration.`
+
+  `Module 05: Vulnerability Analysis – Identifies security weaknesses and flaws in target systems before exploitation.`
+
+  `Module 06: System Hacking – Covers password cracking, escalating privileges, executing applications, and hiding files.`
+
+  `Module 07: Malware Threats – Analyzes Trojans, viruses, ransomware, and AI-generated malware mechanics.`
+
+  `Module 08: Sniffing – Explains network traffic analysis, MAC flooding, and ARP poisoning detection.`
+
+  `Module 09: Social Engineering – Examines human-based attacks including phishing, spear-phishing, and deepfake manipulation.`
+
+  `Module 10: Denial-of-Service (DoS/DDoS) – Looks at availability disruption techniques and mitigation tactics.`
+
+  `Module 11: Session Hijacking – Teaches how attackers take over valid user sessions and preventive controls.`
+
+  `Module 12: Evading IDS, Firewalls, and Honeypots – Demonstrates bypass methods for perimeter security controls.`
+
+  `Module 13: Hacking Web Servers – Focuses on web server vulnerabilities, attack vectors, and patching strategies.`
+
+  `Module 14: Hacking Web Applications – Explores web app architectures, OWASP Top 10 vulnerabilities, and testing.`
+
+  `Module 15: SQL Injection – Covers database attack mechanisms, injection testing, and secure coding fixes.`
+
+  `Module 16: Hacking Wireless Networks – Teaches Wi-Fi encryption weaknesses, rogue access points, and wireless sniffing.`
+
+  `Module 17: Hacking Mobile Platforms – Analyzes Android and iOS security models, application flaws, and mobile device management.`
+
+  `Module 18: IoT and OT Hacking – Explores connected smart device risks, industrial control systems, and hardware security.`
+
+  `Module 19: Cloud Computing – Covers cloud service models (IaaS, PaaS, SaaS), shared responsibility, and misconfigurations.`
+
+  `Module 20: Cryptography – Explores encryption algorithms, public-key infrastructure, and post-quantum cryptography.`
+
+
+  These are the topics we have to know in basics. After this you can go with any fields of Hacking.
+
+  Books we have to read are:
+          1.Getting Started Becoming a Master Hacker
+          2.Black Hat Python
+          3.Hacking The Art of Exploitation 2nd edition
+          4.The Web Application Hacker's Handbook 2nd edition
+          5.Serious Cryptography
+
+
+OSINT~#
+
+  The first step of hacking is OSINT - Open Source INTelligent
+
+  There is no book btw for OSINT but we can join the "C|OSINT|P" - Certification
+
+  It will teach us a lot about OSINT. We can also watch vids About OSINT but watch from realiable source means channel.
+
+1. GIAC Open Source Intelligence (GOSI)
+
+Course Modules:
+
+* OSINT Fundamentals
+* Intelligence Lifecycle
+* OSINT Methodology
+* Investigation Planning
+* Search Engine Intelligence
+* Advanced Search Operators
+* Social Media Intelligence
+* Username Investigations
+* Email Investigations
+* Domain Intelligence
+* Website Reconnaissance
+* Public Records Research
+* Image Intelligence
+* Video Verification
+* Geolocation
+* Metadata Analysis
+* Dark Web Research
+* Data Collection
+* Data Analysis
+* Intelligence Reporting
+* Evidence Preservation
+* Investigator OPSEC
+* Legal & Ethical Considerations
+
+2. GIAC Strategic OSINT Analyst (GSOA)
+
+Course Modules:
+
+* Advanced OSINT Methodology
+* Strategic Intelligence
+* Intelligence Analysis
+* Information Reliability
+* Admiralty Code
+* CRAAP Analysis
+* Analysis of Competing Hypotheses
+* Advanced Search Techniques
+* Social Platform Investigations
+* Disinformation Investigations
+* Russian OSINT
+* Chinese OSINT
+* Dark Web Investigations
+* Cryptocurrency Investigations
+* Blockchain Intelligence
+* Threat Actor Research
+* Adversarial Infrastructure
+* Large-Scale OSINT Collection
+* Python Automation
+* Data Analysis
+* Persona Management
+* Investigator OPSEC
+* Complex Investigations
+* Intelligence Reporting
+
+3. OSINT Combine / Advanced OSINT Investigator
+
+Course Modules:
+
+* OSINT Fundamentals
+* Investigation Methodology
+* Search Engine Research
+* Advanced Search Operators
+* Social Media Research
+* Username Enumeration
+* Email Investigation
+* Phone Number Research
+* Name & Alias Research
+* Domain Investigation
+* DNS Intelligence
+* IP Investigation
+* Infrastructure Mapping
+* Website Intelligence
+* Image Investigation
+* Reverse Image Search
+* Video Investigation
+* Geolocation
+* Metadata Analysis
+* Public Records
+* Data Correlation
+* Digital Footprint Analysis
+* Investigation Reporting
+* Evidence Handling
+* OPSEC
+
+4. McAfee Institute Certified OSINT Investigator
+
+Course Modules:
+
+* OSINT Fundamentals
+* Intelligence Gathering
+* Investigation Planning
+* Search Engine Intelligence
+* Social Media Investigations
+* Digital Footprint Analysis
+* Username Research
+* Email Research
+* Phone Research
+* Name & Alias Research
+* Image Research
+* Geolocation
+* Public Records
+* Website Research
+* Domain Intelligence
+* Dark Web Intelligence
+* Data Analysis
+* Case Management
+* Evidence Documentation
+* Intelligence Reporting
+* Legal Considerations
+* Ethical Considerations
+* Investigator OPSEC
+
+5. Bellingcat OSINT Training
+
+Course Modules:
+
+* Open-Source Investigation Fundamentals
+* Online Research Methodology
+* Advanced Web Research
+* Search Engine Techniques
+* Social Media Investigation
+* Image Verification
+* Reverse Image Search
+* Video Verification
+* Geolocation
+* Chronolocation
+* Satellite Imagery
+* Map Research
+* OpenStreetMap Research
+* Transportation Research
+* Flight Tracking
+* Vessel Tracking
+* Archive Research
+* Website Archiving
+* Document Investigation
+* Source Verification
+* Timeline Construction
+* Evidence Preservation
+* Investigation Reporting
+
+6. Berkeley Protocol / Open-Source Investigation Training
+
+Course Modules:
+
+* Open-Source Investigation Principles
+* Investigation Planning
+* Research Questions
+* Source Identification
+* Source Evaluation
+* Digital Evidence
+* Evidence Collection
+* Evidence Preservation
+* Image Verification
+* Video Verification
+* Geolocation
+* Chronolocation
+* Metadata
+* Web Archiving
+* Documentation
+* Chain of Custody
+* Verification Methodology
+* Corroboration
+* Timeline Analysis
+* Investigation Reporting
+* Ethical Considerations
+* Investigator Safety
+
+7. INE Cybersecurity OSINT Training
+
+Course Modules:
+
+* OSINT Fundamentals
+* Reconnaissance Fundamentals
+* Search Engines
+* Advanced Search Operators
+* Google Dorking
+* DNS Reconnaissance
+* WHOIS & RDAP
+* IP Intelligence
+* ASN Intelligence
+* Subdomain Enumeration
+* Certificate Transparency
+* Email Discovery
+* Username Discovery
+* Social Network Intelligence
+* Website Reconnaissance
+* Technology Fingerprinting
+* Metadata Analysis
+* Attack Surface Discovery
+* Infrastructure Intelligence
+* Threat Intelligence
+* Data Correlation
+* Reporting
+
+8. TCM Security OSINT Training
+
+Course Modules:
+
+* OSINT Fundamentals
+* Reconnaissance Methodology
+* Search Engines
+* Google Dorking
+* Advanced Search Operators
+* Email OSINT
+* Username OSINT
+* Social Media Research
+* Domain Enumeration
+* DNS Enumeration
+* WHOIS
+* Subdomain Enumeration
+* IP Intelligence
+* Website Reconnaissance
+* Metadata Analysis
+* Image OSINT
+* Digital Footprint Analysis
+* Breach Exposure Research
+* Infrastructure Discovery
+* Intelligence Correlation
+* Investigation Reporting
+* OPSEC
+
+9. OSINT Dojo Training / Certification Paths
+
+Course Modules:
+
+* OSINT Fundamentals
+* Investigation Methodology
+* Search Engine Intelligence
+* Advanced Search
+* Social Media Intelligence
+* Username Hunting
+* Email Investigation
+* Phone Number Research
+* Image Analysis
+* Reverse Image Search
+* Geolocation
+* Website Investigation
+* Domain Research
+* Metadata Analysis
+* Public Records
+* Infrastructure Research
+* Digital Footprints
+* Data Correlation
+* Evidence Collection
+* Investigation Documentation
+* Practical OSINT Challenges
+* Case-Based Investigations
+
+10. Cyber Threat Intelligence Certifications
+
+Course Modules:
+
+* Threat Intelligence Fundamentals
+* Intelligence Lifecycle
+* Threat Intelligence Requirements
+* Threat Actor Profiling
+* Threat Actor Infrastructure
+* IOC Collection
+* IOC Analysis
+* IP Intelligence
+* Domain Intelligence
+* Malware Intelligence
+* Malware Source Research
+* Dark Web Monitoring
+* Forum Intelligence
+* Threat Campaign Analysis
+* Attack Infrastructure Tracking
+* MITRE ATT&CK
+* Attribution
+* Adversary Tactics & Techniques
+* Intelligence Analysis
+* Data Correlation
+* Threat Hunting Intelligence
+* Intelligence Reporting
+* Intelligence Dissemination
+
+11. C|OSINT|P — Certified OSINT Professional
+
+Course Modules:
+
+* OSINT Fundamentals
+* OSINT Methodology
+* Intelligence Lifecycle
+* Legal & Ethical Boundaries
+* Investigator OPSEC
+* Investigation Planning
+* Search Engine Intelligence
+* Advanced Search Operators
+* Google Dorking
+* Social Media Intelligence
+* Username Investigation
+* Email Investigation
+* Phone Number OSINT
+* Name & Alias Investigation
+* Digital Footprint Analysis
+* Domain Intelligence
+* DNS Intelligence
+* WHOIS & RDAP
+* IP Address Intelligence
+* ASN Intelligence
+* Subdomain Enumeration
+* Certificate Transparency
+* Website Intelligence
+* Web Archive Investigation
+* Metadata Analysis
+* EXIF Analysis
+* Image OSINT
+* Reverse Image Search
+* Image Verification
+* Video OSINT
+* Video Verification
+* Geolocation
+* Chronolocation
+* Satellite Imagery Analysis
+* Map Intelligence
+* Transportation OSINT
+* Public Records Research
+* Corporate Intelligence
+* Business Intelligence
+* Document Intelligence
+* PDF & File Metadata
+* GitHub Intelligence
+* Code Repository OSINT
+* Breach Exposure Research
+* Dark Web Fundamentals
+* Dark Web OSINT
+* Forum Intelligence
+* Telegram OSINT
+* Reddit OSINT
+* Discord OSINT
+* Threat Actor Research
+* Cyber Threat Intelligence
+* IOC Research
+* Infrastructure Mapping
+* Digital Infrastructure Correlation
+* Cryptocurrency OSINT
+* Blockchain Intelligence
+* Disinformation Investigation
+* Misinformation Analysis
+* Source Verification
+* Information Reliability Assessment
+* Timeline Analysis
+* Entity Resolution
+* Link Analysis
+* Relationship Mapping
+* Data Correlation
+* OSINT Automation
+* Python for OSINT
+* APIs for OSINT
+* Data Collection
+* Data Processing
+* Data Visualization
+* Investigation Documentation
+* Evidence Preservation
+* Intelligence Reporting
+* Case Management
+* Advanced Investigation Techniques
+* Capstone Investigation
+
+
+Learing this can make you a beast of OSINT btw.
+
+
+
+Social Engineering~#
+
+  This is a Hacking techniqe but used for Human. Means this plays with human psychology and force them to give access.
+
+  BOOKs~$ Ghost In The Wires
+
+===============================================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
